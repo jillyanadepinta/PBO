@@ -1,11 +1,11 @@
-import design.face as face
-import design.outfit as outfit
-import actions.walk as walk
-import actions.hello as hello
-import sound.alarm as alarm
+import design.face
+import design.outfit
+import actions.walk
+import actions.hello
+import sound.alarm
 
-print(face.show_face())
-print(outfit.show_outfit())
-print(walk.walk())
-print(hello.say_hello())
-print(alarm.alarm_sound())
+print(design.face.FunctionFace())
+print(design.outfit.FunctionOutfit())
+print(actions.walk.FunctionWalk())
+print(actions.hello.FunctionHello())
+print(sound.alarm.FunctionAlarm())

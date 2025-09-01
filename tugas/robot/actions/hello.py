@@ -1,2 +1,2 @@
-def say_hello():
+def FunctionHello():
     return "Robot berkata: allo gengss"

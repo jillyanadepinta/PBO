@@ -1,2 +1,2 @@
-def alarm_sound():
+def FunctionAlarm():
     return "Alarm berbunyi: ninu ninuu!"

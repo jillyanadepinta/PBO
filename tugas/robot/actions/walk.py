@@ -1,2 +1,2 @@
-def walk():
+def FunctionWalk():
     return "Robot sedang berjalan"
